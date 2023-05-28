@@ -114,7 +114,7 @@ out.phandango.tre
 The `phandango` outfiles are for if you want to visualise the output:
 
 
-![alt text](ARIBA_demo/images/phandango_example.png)
+![alt text](https://github.com/LeahRoberts/Mtb_South_Africa/blob/main/ARIBA_demo/images/phandango_example.png)
 
 Because of the columns we have selected in the summary, the phandango output isn't particularly informative here (e.g. the purple columns are just the gene name)
 
